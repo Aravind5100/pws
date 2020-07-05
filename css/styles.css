@@ -33,6 +33,13 @@ p {
   right: 300px;
   top: 50px;
 }
+hr
+{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width=5px;
+  width=10%;
+}
 
 .top-cloud {
   position: absolute;
