@@ -48,7 +48,7 @@ h3 {
 }
 p{
   margin: 20px auto 40px auto;
-Width: 50%
+
 }
 
 hr {
@@ -80,6 +80,10 @@ hr {
 .middle-container {
   position: relative;
   padding-top: 100px;
+}
+.intro
+{
+  Width: 50%
 }
 
 .bottom-container {
